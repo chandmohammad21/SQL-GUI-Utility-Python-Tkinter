@@ -1,0 +1,1 @@
+C:\Users\csaif\anaconda3\python.exe C:\Users\csaif\PycharmProjects\SqlGUI\SqlGUI.py %*
